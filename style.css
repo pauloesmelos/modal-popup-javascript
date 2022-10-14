@@ -37,6 +37,7 @@ h1{
     margin-left: 34%;
     margin-top: 3%;
     max-width: 90%; /*responsivo*/
+    z-index: 1; /*faz o modal se sobrepor ao footer*/
 }
 .modal hr{
     color: red;
